@@ -1,0 +1,4 @@
+[2026-05-08 05:17:19] event=system-start total_free=32 largest_free=3 external_fragmentation=90.62% active_patients=0
+[2026-05-08 05:17:46] event=allocation total_free=29 largest_free=3 external_fragmentation=89.66% active_patients=1
+[2026-05-08 05:17:56] event=deallocation-coalescing total_free=32 largest_free=6 external_fragmentation=81.25% active_patients=0
+[2026-05-08 05:19:04] event=shutdown-free-all total_free=32 largest_free=32 external_fragmentation=0.00% active_patients=0
